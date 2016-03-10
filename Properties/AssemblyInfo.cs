@@ -1,4 +1,4 @@
-﻿
+
 using System;
 using System.Reflection;
 using System.Runtime.InteropServices;
@@ -8,8 +8,8 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: ComVisible(false)]
 [assembly: CLSCompliant(true)]
-[assembly: AssemblyTitle("GZipEncoder")]
-[assembly: AssemblyDescription("GZipEncoder")]
+[assembly: AssemblyTitle("GZipEncoder - Windows Communication Foundation and Windows Workflow Foundation SDK")]
+[assembly: AssemblyDescription("Provides GZip compression over a WCF channel")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft Corporation")]
 [assembly: AssemblyProduct("Windows Communication Foundation and Windows Workflow Foundation SDK")]
