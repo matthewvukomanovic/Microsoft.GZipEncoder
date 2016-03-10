@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GZipEncoder</id>
+    <version>1.0</version>
+    <title>GZipEncoder - Windows Communication Foundation and Windows Workflow Foundation SDK</title>
+    <authors>Microsoft Corporation</authors>
+    <owners>Microsoft Corporation</owners>
+    <licenseUrl>https://msdn.microsoft.com/en-us/library/ms751458%28v=vs.110%29.aspx</licenseUrl>
+    <projectUrl>https://github.com/matthewvukomanovic/Microsoft.GZipEncoder</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides GZip compression over a WCF channel</description>
+    <releaseNotes>Initial release of Microsofts GZipEncoder example</releaseNotes>
+    <copyright>Copyright (c) Microsoft Corporation</copyright>
+    <tags>WCF GZipEncoder GZip Encoder</tags>
+  </metadata>
+</package>
